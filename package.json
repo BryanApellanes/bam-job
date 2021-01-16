@@ -2,7 +2,7 @@
   "name": "@bryanapellanes/bam-job",
   "version": "1.0.0",
   "description": "Bam job executor",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "jasmine"
   },
