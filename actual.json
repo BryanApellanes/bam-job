@@ -1,0 +1,13 @@
+{
+    "redirect_uris": [],
+    "post_logout_redirect_uris": [],
+    "response_types": [
+        "token"
+    ],
+    "grant_types": [
+        "client_credentials"
+    ],
+    "client_name": "My Service App",
+    "token_endpoint_auth_method": "client_secret_basic",
+    "application_type": "service"
+}
