@@ -2,7 +2,7 @@ name: 'BamApp Job'
 description: 'Execute a bam app job'
 inputs: 
   arguments-file-path: 
-    description: 'Path to the json or yaml file that is the arguments to the job'
+    description: 'Path to the json or yaml file that represents arguments to the job'
 outputs:
   time:
     description: 'The time the job was run'
